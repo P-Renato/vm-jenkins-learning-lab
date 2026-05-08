@@ -1,9 +1,11 @@
+
 - Hostname: ci-server
 - IP: 192.168.122.207
 - OS: Ubuntu 22.04
 - Disk: 20GB
 
-[200~## Installation Steps
+## Installation Steps
+
 1. Expanded disk from 2GB to 20GB
 2. Fixed network connectivity (switched to default libvirt network)
 3. Installed Java 17 (required for Jenkins 2.492.2)
